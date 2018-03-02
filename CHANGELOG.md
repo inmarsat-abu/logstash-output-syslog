@@ -1,3 +1,6 @@
+## 3.0.4.1
+  - Exclude empty procid on RFC3164 messages
+
 ## 3.0.4
   - Update gemspec summary
 
